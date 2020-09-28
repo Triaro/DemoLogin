@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DemoLogin</string>
+    <string name="demo_app">Demo App</string>
+    <string name="login_to_your_account">Login to your account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="new_here_create_account">New here? Create Account</string>
+     <string name="create_new_account">Create new account</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="register">Register</string>
+    <string name="already_registered_login_here">Already Registered? Login Here</string>
+    <string name="log_out">Log Out</string>
+</resources>
